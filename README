@@ -10,9 +10,12 @@ Transposed Convolution:
   https://arxiv.org/abs/1603.07285
   gan: https://arxiv.org/pdf/1511.06434v2.pdf
   https://distill.pub/2016/deconv-checkerboard/
+  https://missinglink.ai/guides/computer-vision/image-segmentation-deep-learning-methods-applications/
 LSTM:
   http://colah.github.io/posts/2015-08-Understanding-LSTMs/
   https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+Image segmentation:
+  https://missinglink.ai/guides/computer-vision/image-segmentation-deep-learning-methods-applications/
   
   
   
