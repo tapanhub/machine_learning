@@ -4,9 +4,14 @@ Batch Normalization:
   https://papers.nips.cc/paper/7996-understanding-batch-normalization.pdf
 Convolution Neural Network for image recognization: 
   https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv 
+Transposed Convolution:
+  https://medium.com/activating-robotic-minds/up-sampling-with-transposed-convolution-9ae4f2df52d0
+  https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
 LSTM:
   http://colah.github.io/posts/2015-08-Understanding-LSTMs/
   https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+  
+  
   
 
 
