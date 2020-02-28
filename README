@@ -14,8 +14,11 @@ Transposed Convolution:
 LSTM:
   http://colah.github.io/posts/2015-08-Understanding-LSTMs/
   https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+Convolutional Neural Network:
+  https://missinglink.ai/guides/neural-network-concepts/convolutional-neural-network-build-one-keras-pytorch/
 Image segmentation:
   https://missinglink.ai/guides/computer-vision/image-segmentation-deep-learning-methods-applications/
+  
   
   
   
