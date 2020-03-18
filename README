@@ -28,6 +28,7 @@ Image segmentation:
    https://github.com/tensorflow/examples/blob/master/community/en/docs/deploy/distributed.md
    https://lambdalabs.com/blog/tensorflow-2-0-tutorial-05-distributed-training-multi-node/
   
-  
+ Data normalization:
+   https://towardsdatascience.com/understand-data-normalization-in-machine-learning-8ff3062101f0
 
 
