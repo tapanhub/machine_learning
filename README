@@ -24,6 +24,7 @@ LSTM:
   http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
   https://stats.stackexchange.com/questions/270546/how-does-keras-embedding-layer-work
   https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture
+  https://stackoverflow.com/questions/41455101/what-is-the-meaning-of-the-word-logits-in-tensorflow
 Convolutional Neural Network:
   https://missinglink.ai/guides/neural-network-concepts/convolutional-neural-network-build-one-keras-pytorch/
 Image segmentation:
