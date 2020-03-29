@@ -22,9 +22,11 @@ LSTM:
   https://github.com/sherjilozair/char-rnn-tensorflow
   https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526
   http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
+Embeding:
   https://stats.stackexchange.com/questions/270546/how-does-keras-embedding-layer-work
   https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture
   https://stackoverflow.com/questions/41455101/what-is-the-meaning-of-the-word-logits-in-tensorflow
+  https://www.tensorflow.org/tutorials/text/word_embeddings
 Convolutional Neural Network:
   https://missinglink.ai/guides/neural-network-concepts/convolutional-neural-network-build-one-keras-pytorch/
 Image segmentation:
