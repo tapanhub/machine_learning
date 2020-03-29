@@ -23,6 +23,7 @@ LSTM:
   https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526
   http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
   https://stats.stackexchange.com/questions/270546/how-does-keras-embedding-layer-work
+  https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture
 Convolutional Neural Network:
   https://missinglink.ai/guides/neural-network-concepts/convolutional-neural-network-build-one-keras-pytorch/
 Image segmentation:
