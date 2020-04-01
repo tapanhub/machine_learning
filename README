@@ -45,4 +45,5 @@ Image segmentation:
  Data normalization:
    https://towardsdatascience.com/understand-data-normalization-in-machine-learning-8ff3062101f0
 
-
+ BenchMarking:
+   https://github.com/baidu-research/DeepBench
