@@ -31,6 +31,7 @@ Embeding:
   https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture
   https://stackoverflow.com/questions/41455101/what-is-the-meaning-of-the-word-logits-in-tensorflow
   https://www.tensorflow.org/tutorials/text/word_embeddings
+  https://arxiv.org/pdf/1507.07998.pdf ( Document embdding with paragraphs vectors )
   
   
 Jupyter:
