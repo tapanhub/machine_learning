@@ -1,5 +1,7 @@
 This repository contains expamples of diffenrent machine learning algorithms using scikit-learn, tensorflow..etc
 TODO
+Auto Differentiation:
+  http://colah.github.io/posts/2015-08-Backprop/
 Batch Normalization: 
   https://papers.nips.cc/paper/7996-understanding-batch-normalization.pdf
 Convolution Neural Network for image recognization: 
