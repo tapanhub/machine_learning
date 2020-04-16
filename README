@@ -6,6 +6,9 @@ Batch Normalization:
   https://papers.nips.cc/paper/7996-understanding-batch-normalization.pdf
 Convolution Neural Network for image recognization: 
   https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv 
+  https://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/
+  cuDNN: https://arxiv.org/pdf/1410.0759.pdf
+  caffe optimization: https://arxiv.org/pdf/1504.04343v1.pdf
 Conv backpropagation:
   https://towardsdatascience.com/backpropagation-in-a-convolutional-layer-24c8d64d8509
 Gradient Descent:
