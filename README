@@ -55,3 +55,6 @@ Image segmentation:
 
  BenchMarking:
    https://github.com/baidu-research/DeepBench
+   
+ Numpy strides:
+   https://stackoverflow.com/questions/53097952/how-to-understand-numpy-strides-for-layman
