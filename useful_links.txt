@@ -60,3 +60,6 @@ Image segmentation:
    
  Numpy strides:
    https://stackoverflow.com/questions/53097952/how-to-understand-numpy-strides-for-layman
+ covid19India data display:
+   state plot:
+   https://towardsdatascience.com/tracking-corona-covid-19-spread-in-india-using-python-40ef8ffa7e31 
