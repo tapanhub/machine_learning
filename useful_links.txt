@@ -16,6 +16,7 @@ Conv backpropagation:
 Gradient Descent:
   https://ruder.io/optimizing-gradient-descent/
   https://en.wikipedia.org/wiki/Stochastic_gradient_descent
+  https://en.wikipedia.org/wiki/Automatic_differentiation
 Transposed Convolution:
   https://medium.com/activating-robotic-minds/up-sampling-with-transposed-convolution-9ae4f2df52d0
   https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
@@ -60,3 +61,6 @@ Image segmentation:
    
  Numpy strides:
    https://stackoverflow.com/questions/53097952/how-to-understand-numpy-strides-for-layman
+ covid19India data display:
+   state plot:
+   https://towardsdatascience.com/tracking-corona-covid-19-spread-in-india-using-python-40ef8ffa7e31 
