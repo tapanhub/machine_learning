@@ -16,6 +16,7 @@ Conv backpropagation:
 Gradient Descent:
   https://ruder.io/optimizing-gradient-descent/
   https://en.wikipedia.org/wiki/Stochastic_gradient_descent
+  https://en.wikipedia.org/wiki/Automatic_differentiation
 Transposed Convolution:
   https://medium.com/activating-robotic-minds/up-sampling-with-transposed-convolution-9ae4f2df52d0
   https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
