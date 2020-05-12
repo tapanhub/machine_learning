@@ -58,6 +58,8 @@ Image segmentation:
 
  BenchMarking:
    https://github.com/baidu-research/DeepBench
+ Setting Random values while training:
+   https://medium.com/@ODSC/properly-setting-the-random-seed-in-ml-experiments-not-as-simple-as-you-might-imagine-219969c84752
    
  Numpy strides:
    https://stackoverflow.com/questions/53097952/how-to-understand-numpy-strides-for-layman
