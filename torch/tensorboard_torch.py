@@ -3,8 +3,9 @@ import numpy as np
 import tensorflow as tf
 import os
 import traceback
+import glob
 
-logdir = "/tmp/log"
+logdir = "/tmp/log_"
 
 
 def read_eventfile(sfile):
@@ -25,17 +26,28 @@ def read_eventfile(sfile):
 # write dummy data to tensorboard
 with SummaryWriter(logdir) as writer:
     for n_iter in range(100):
-        writer.add_scalar('Loss/train', np.random.random(), n_iter)
-        writer.add_scalar('Loss/test', np.random.random(), n_iter)
-        writer.add_scalar('Accuracy/train', np.random.random(), n_iter)
-        writer.add_scalar('Accuracy/test', np.random.random(), n_iter)
+        rand_vals=[ np.random.random() for _ in range(4) ]
+        print(rand_vals)
+        writer.add_scalar('Loss/train', rand_vals[0], n_iter)
+        writer.add_scalar('Loss/test', rand_vals[1], n_iter)
+        writer.add_scalar('Accuracy/train', rand_vals[2], n_iter)
+        writer.add_scalar('Accuracy/test', rand_vals[3], n_iter)
+        tdict= {
+                 'Loss/train': rand_vals[0],
+                 'Loss/test': rand_vals[1],
+                 'Accuracy/train': rand_vals[2],
+                 'Accuracy/test': rand_vals[3],
+               }
+        writer.add_scalars('loss_accuracy/train_test', tdict, n_iter)
 
 
-for fl in os.listdir(logdir):
-    logfile = os.path.join(logdir, fl)
-    try:
-        print(f"log file: {logfile}")
-        read_eventfile(logfile)
-    except Exception as e:
-        print(f"read_eventfile failed with {str(e)}")
-        print(traceback.format_exc())
+files = glob.glob(logdir + '/**/*',
+                  recursive = True)
+for logfile in files:
+    if os.path.isfile(logfile):
+        try:
+            print(f"log file: {logfile}")
+            read_eventfile(logfile)
+        except Exception as e:
+            print(f"read_eventfile failed with {str(e)}")
+            print(traceback.format_exc())
