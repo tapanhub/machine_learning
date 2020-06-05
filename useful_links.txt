@@ -66,3 +66,5 @@ Image segmentation:
  covid19India data display:
    state plot:
    https://towardsdatascience.com/tracking-corona-covid-19-spread-in-india-using-python-40ef8ffa7e31 
+ face recognition:
+   https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826
