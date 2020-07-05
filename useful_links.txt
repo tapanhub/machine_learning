@@ -68,3 +68,5 @@ Image segmentation:
    https://towardsdatascience.com/tracking-corona-covid-19-spread-in-india-using-python-40ef8ffa7e31 
  face recognition:
    https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826
+ Feature Engineering, Data cleaning, Data preparation:
+   https://machinelearningmastery.com/books-on-data-cleaning-data-preparation-and-feature-engineering/
