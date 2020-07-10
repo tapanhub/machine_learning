@@ -70,3 +70,7 @@ Image segmentation:
    https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826
  Feature Engineering, Data cleaning, Data preparation:
    https://machinelearningmastery.com/books-on-data-cleaning-data-preparation-and-feature-engineering/
+ Recomended System:
+   https://en.wikipedia.org/wiki/Recommender_system
+   DLRM: https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/
+   Content filtering: https://developers.google.com/machine-learning/recommendation/content-based/basics
