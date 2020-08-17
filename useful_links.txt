@@ -74,3 +74,5 @@ Image segmentation:
    https://en.wikipedia.org/wiki/Recommender_system
    DLRM: https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/
    Content filtering: https://developers.google.com/machine-learning/recommendation/content-based/basics
+  TensorRT:
+  https://developer.nvidia.com/gtc/2020/video/s21671
