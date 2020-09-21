@@ -4,6 +4,13 @@ Deep Learning for Hackers:
   https://github.com/curiousily/Deep-Learning-For-Hackers
 Auto Differentiation:
   http://colah.github.io/posts/2015-08-Backprop/
+  https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/
+  https://blog.paperspace.com/pytorch-hooks-gradient-clipping-debugging/
+  https://towardsdatascience.com/pytorch-autograd-understanding-the-heart-of-pytorchs-magic-2686cd94ec95#:~:text=Mathematically%2C%20the%20autograd%20class%20is,with%20respect%20to%20another%20vector.
+  https://www.youtube.com/watch?v=MswxJw-8PvE
+Pytorch hooks:
+  https://www.youtube.com/watch?v=syLFCVYua6Q
+  
 Batch Normalization: 
   https://papers.nips.cc/paper/7996-understanding-batch-normalization.pdf
 Convolution Neural Network for image recognization: 
