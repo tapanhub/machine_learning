@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.1 FATAL_ERROR)
+set(CMAKE_CXX_STANDARD 14)
+find_package(Torch REQUIRED)
+add_library(my_op SHARED op.cpp)
+target_compile_features(my_op PRIVATE cxx_range_for)
+target_link_libraries(my_op PRIVATE "${TORCH_LIBRARIES}")
