@@ -1,9 +1,7 @@
-cmake_minimum_required(VERSION 3.0 FATAL_ERROR)
-project(ptcpp)
-
+cmake_minimum_required(VERSION 3.1 FATAL_ERROR)
+set(CMAKE_CXX_STANDARD 14)
 find_package(Torch REQUIRED)
-
-add_executable(ptcpp ptcpp.cpp)
-target_compile_options(ptcpp PRIVATE -g -O0 )
-target_link_libraries(ptcpp "${TORCH_LIBRARIES}")
-set_property(TARGET ptcpp PROPERTY CXX_STANDARD 14)
+add_library(my_op SHARED op.cpp)
+target_compile_features(my_op PRIVATE cxx_range_for)
+target_compile_options(my_op PRIVATE -g -O0)
+target_link_libraries(my_op PRIVATE "${TORCH_LIBRARIES}")
