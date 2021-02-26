@@ -89,5 +89,8 @@ Image segmentation:
 
 Dont decay learning rate & increase the batchsize:
    https://openreview.net/pdf?id=B1Yy1BxCZ
+Transformer:
+   https://nlp.seas.harvard.edu/2018/04/03/attention.html
+   http://jalammar.github.io/illustrated-transformer/
 misc:
    https://towardsdatascience.com/how-to-automatically-import-your-favorite-libraries-into-ipython-or-a-jupyter-notebook-9c69d89aa343
