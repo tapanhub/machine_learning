@@ -97,3 +97,4 @@ misc:
 yolov5:
    https://www.analyticsvidhya.com/blog/2021/08/train-your-own-yolov5-object-detection-model/
    https://yanfengliux.medium.com/the-confusing-metrics-of-ap-and-map-for-object-detection-3113ba0386ef
+   it clone https://github.com/saimj7/People-Counting-in-Real-Time.git
