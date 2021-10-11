@@ -94,3 +94,5 @@ Transformer:
    http://jalammar.github.io/illustrated-transformer/
 misc:
    https://towardsdatascience.com/how-to-automatically-import-your-favorite-libraries-into-ipython-or-a-jupyter-notebook-9c69d89aa343
+yolov5:
+   https://www.analyticsvidhya.com/blog/2021/08/train-your-own-yolov5-object-detection-model/
