@@ -99,3 +99,13 @@ yolov5:
    https://yanfengliux.medium.com/the-confusing-metrics-of-ap-and-map-for-object-detection-3113ba0386ef
    https://github.com/saimj7/People-Counting-in-Real-Time
    it clone https://github.com/saimj7/People-Counting-in-Real-Time.git
+   opencv working with onnx yolov5:https://github.com/ultralytics/yolov5/issues/239
+   python export.py --weights yolov5s.pt --include onnx --simplify
+   python detect.py --weights yolov5s.onnx  # ONNX Runtime inference
+   python detect.py --weights yolov5s.onnx --dnn  # OpenCV DNN inference
+object detection:
+   https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection
+   https://www.kaggle.com/rahulkumarpatro/yolo-object-detection
+   https://becominghuman.ai/understanding-anchors-backbone-of-object-detection-using-yolo-54962f00fbbb
+   
+   
