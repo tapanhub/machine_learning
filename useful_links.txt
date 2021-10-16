@@ -2,6 +2,7 @@ This repository contains expamples of diffenrent machine learning algorithms usi
 TODO
 Deep Learning for Hackers:
   https://github.com/curiousily/Deep-Learning-For-Hackers
+  https://github.com/sgrvinod?tab=overview&from=2019-12-01&to=2019-12-31
 Auto Differentiation:
   http://colah.github.io/posts/2015-08-Backprop/
   https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/
