@@ -109,5 +109,5 @@ object detection:
    https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection
    https://www.kaggle.com/rahulkumarpatro/yolo-object-detection
    https://becominghuman.ai/understanding-anchors-backbone-of-object-detection-using-yolo-54962f00fbbb
-   
+   https://curiousily.com/posts/object-detection-on-custom-dataset-with-yolo-v5-using-pytorch-and-python/
    
