@@ -112,3 +112,7 @@ object detection:
    https://curiousily.com/posts/object-detection-on-custom-dataset-with-yolo-v5-using-pytorch-and-python/
    https://pysource.com/object-detection-opencv-deep-learning-video-course/
    
+ANPR:
+   https://github.com/theAIGuysCode/yolov4-custom-functions
+   https://www.youtube.com/watch?v=AAPZLK41rek
+   
