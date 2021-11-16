@@ -116,4 +116,7 @@ ANPR:
    https://github.com/theAIGuysCode/yolov4-custom-functions
    https://www.youtube.com/watch?v=AAPZLK41rek
    https://github.com/bharatsubedi/ALPR-Yolov5
+   https://www.kaggle.com/rkuo2000/yolov5-alpr/data
+   https://www.kaggle.com/rkuo2000/yolov5-alpr/notebook
+   
    
