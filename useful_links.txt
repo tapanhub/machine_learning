@@ -118,5 +118,6 @@ ANPR:
    https://github.com/bharatsubedi/ALPR-Yolov5
    https://www.kaggle.com/rkuo2000/yolov5-alpr/data
    https://www.kaggle.com/rkuo2000/yolov5-alpr/notebook
+   mAP: https://towardsdatascience.com/map-mean-average-precision-might-confuse-you-5956f1bfa9e2
    
    
