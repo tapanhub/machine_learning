@@ -120,4 +120,6 @@ ANPR:
    https://www.kaggle.com/rkuo2000/yolov5-alpr/notebook
    mAP: https://towardsdatascience.com/map-mean-average-precision-might-confuse-you-5956f1bfa9e2
    
-   
+BERT:
+   http://nlp.seas.harvard.edu/2018/04/03/attention.html
+   https://arxiv.org/pdf/1810.04805.pdf
