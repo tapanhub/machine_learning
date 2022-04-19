@@ -131,3 +131,5 @@ https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3
 distributed bert training:
   https://docs.microsoft.com/en-us/azure/machine-learning/how-to-train-distributed-gpu
   https://aws.amazon.com/blogs/machine-learning/multi-gpu-distributed-deep-learning-training-at-scale-on-aws-with-ubuntu18-dlami-efa-on-p3dn-instances-and-amazon-fsx-for-lustre/
+  https://docs.nvidia.com/ngc/multi-node-bert-user-guide/index.html
+  https://github.com/microsoft/AzureML-BERT/blob/master/pretrain/PyTorch/notebooks/BERT_Pretrain.ipynb
